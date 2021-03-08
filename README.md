@@ -1,6 +1,6 @@
 # Introduction_to_Python_Part1
-First workshop in a series of five Python workshops.
-
+First workshop in a series of five Python workshops.<br/>
+Note: Please click **'launch binder'** button, present at the bottom of the page to launch the Binder
 ### Introduction to Python
 
 * **Hands-on**
