@@ -17,3 +17,5 @@ First workshop in a series of five Python workshops.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Introduction_to_Python_Part1.git/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/CEASLIBRARY/Introduction_to_Python_Part1.git/blob/master)
