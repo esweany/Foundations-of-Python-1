@@ -20,4 +20,4 @@ Please click **'Open in Colab'** button below to launch the notebook in Google C
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Introduction_to_Python_Part1.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github.com/The-CEAS-Library/Introduction_to_Python_Part1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Introduction_to_Python_Part1)
