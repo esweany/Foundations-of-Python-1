@@ -1,6 +1,5 @@
 # Foundations of Python 1
 
-First workshop in a series of five Python workshops.
 
 ### Introduction to Python
 
